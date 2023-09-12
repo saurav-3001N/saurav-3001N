@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saurav sapkota
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Data structure and Algorithms
-- 💞️ I’m looking to collaborate on web development and machine lea
+- 👀 I’m interested in Java, HTML, CSS, JS.
+- 🌱 I’m currently learning CyberSecurity and Networking!
+- 💞️ I’m looking to collaborate on web development and Java developer
 - 📫 How to reach me just mail me...
 
 <!---
